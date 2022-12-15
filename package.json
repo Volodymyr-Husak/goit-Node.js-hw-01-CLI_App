@@ -1,0 +1,29 @@
+{
+  "name": "goit-node.js-hw-01-cli_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Volodymyr-Husak/goit-Node.js-hw-01-CLI_App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Volodymyr-Husak/goit-Node.js-hw-01-CLI_App/issues"
+  },
+  "homepage": "https://github.com/Volodymyr-Husak/goit-Node.js-hw-01-CLI_App#readme",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "nanoid": "^4.0.0"
+  },
+  "keywords": [],
+  "description": ""
+}
